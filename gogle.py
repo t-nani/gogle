@@ -1,2 +1,6 @@
 print("HKI")
 print("Hello")
+print("this")
+print("google")
+print("thank you")
+print("bye")
